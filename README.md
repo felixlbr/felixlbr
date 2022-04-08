@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Félix</h1>
 <h3 align="center">A student at University of Paris</h3>
 
+## This is my resume
+![Liburski_Felix-CV](https://user-images.githubusercontent.com/94796720/162541769-39c51ffb-172e-4831-984d-2a3bd8caaffc.png)
+
 📫 How to reach me **felix.liburski@gmail.com**
 
 </p>
