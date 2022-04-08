@@ -13,7 +13,7 @@
     <th><a href="https://github.com/felixlbr/ClassementWTA">ClassementWTA</a></th>
   </tr>
   <tr>
-    <td></td>
+    <td><img src"https://user-images.githubusercontent.com/94796720/162544374-418122ca-a905-4eab-b577-3dd17e8b0218.png"></td>
     <td><img width="50%" src="https://user-images.githubusercontent.com/94796720/162544016-34b3d2ec-2c11-4358-8044-775437ff4fe8.jpg"></img></td>
   </tr>
 </table>
