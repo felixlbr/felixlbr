@@ -12,14 +12,15 @@
     <th><a href="https://github.com/felixlbr/E-Portfolio">E-Portfolio</a></th>
     <th><a href="https://github.com/felixlbr/ClassementWTA">ClassementWTA</a></th>
   </tr>
-  <tr>
+<!--  <tr>
     <td><img src"https://user-images.githubusercontent.com/94796720/162544374-418122ca-a905-4eab-b577-3dd17e8b0218.png"></td>
     <td><img width="50%" src="https://user-images.githubusercontent.com/94796720/162544016-34b3d2ec-2c11-4358-8044-775437ff4fe8.jpg"></img></td>
-  </tr>
+  </tr> -->
 </table>
 
+<!--
+![png-clipart-logo-brand-number-product-minesweeper-text-logo](https://user-images.githubusercontent.com/94796720/162544374-418122ca-a905-4eab-b577-3dd17e8b0218.png) -->
 
-![png-clipart-logo-brand-number-product-minesweeper-text-logo](https://user-images.githubusercontent.com/94796720/162544374-418122ca-a905-4eab-b577-3dd17e8b0218.png)
 ## My resume
 <p style="text-align:center;"><img width="70%" src="https://user-images.githubusercontent.com/94796720/162541769-39c51ffb-172e-4831-984d-2a3bd8caaffc.png"></p>
 
