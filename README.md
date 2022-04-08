@@ -6,10 +6,16 @@
 
 ## My projects
 <table>
-  <th><a href="https://github.com/felixlbr/Minesweeper">Minesweeper</a></th>
-  <th><a href="https://github.com/felixlbr/6-qui-prend">6 qui prend</a></th>
-  <th><a href="https://github.com/felixlbr/E-Portfolio">E-Portfolio</a></th>
-  <th><a href="https://github.com/felixlbr/ClassementWTA">ClassementWTA</a></th>
+  <tr>
+    <th><a href="https://github.com/felixlbr/Minesweeper">Minesweeper</a></th>
+    <th><a href="https://github.com/felixlbr/6-qui-prend">6 qui prend</a></th>
+    <th><a href="https://github.com/felixlbr/E-Portfolio">E-Portfolio</a></th>
+    <th><a href="https://github.com/felixlbr/ClassementWTA">ClassementWTA</a></th>
+  </tr>
+  <tr>
+    <td></td>
+    <td><img width="50%" src="https://user-images.githubusercontent.com/94796720/162544016-34b3d2ec-2c11-4358-8044-775437ff4fe8.jpg"></img></td>
+  </tr>
 </table>
 
 
