@@ -2,9 +2,7 @@
 <h3 align="center">A student at University of Paris</h3>
 
 ## This is my resume
-![Liburski_Felix-CV](https://user-images.githubusercontent.com/94796720/162541769-39c51ffb-172e-4831-984d-2a3bd8caaffc.png)
-
-📫 How to reach me **felix.liburski@gmail.com**
+<a href="[CV - felix 2.pdf](https://github.com/felixlbr/felixlbr/files/8455550/CV.-.felix.2.pdf)">![Liburski_Felix-CV](https://user-images.githubusercontent.com/94796720/162541769-39c51ffb-172e-4831-984d-2a3bd8caaffc.png)</a>
 
 </p>
 
