@@ -22,6 +22,6 @@
 ![png-clipart-logo-brand-number-product-minesweeper-text-logo](https://user-images.githubusercontent.com/94796720/162544374-418122ca-a905-4eab-b577-3dd17e8b0218.png) -->
 
 ## My resume
-<p style="text-align:center;"><img width="40%" src="https://user-images.githubusercontent.com/94796720/162541769-39c51ffb-172e-4831-984d-2a3bd8caaffc.png"></p>
+<p style="text-align:center;"><img width="30%" src="https://user-images.githubusercontent.com/94796720/162541769-39c51ffb-172e-4831-984d-2a3bd8caaffc.png"></p>
 
 [Click to Downolad](https://github.com/felixlbr/felixlbr/files/8455550/CV.-.felix.2.pdf)
