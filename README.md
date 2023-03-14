@@ -8,4 +8,5 @@
 
 ## My resume
 <p style="text-align:center;"><img width="35%" src="https://user-images.githubusercontent.com/94796720/224942235-25808bb0-253f-4de2-9883-68f195dea670.png"></p>
+
 [Click to Downolad](https://github.com/felixlbr/felixlbr/files/10966179/LIBURSKI_Felix-CV.pdf)
