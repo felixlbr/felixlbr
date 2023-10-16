@@ -7,6 +7,6 @@
 </p>
 
 ## My resume
-<p style="text-align:center;"><img width="35%" src="![LIBURSKI_Felix-CV](https://github.com/felixlbr/felixlbr/assets/94796720/650bc4de-887e-430a-9891-c33ebd5ef26a)"></p>
+<p style="text-align:center;"><img width="35%" src="![LIBURSKI_Felix-CV](https://github.com/felixlbr/felixlbr/assets/94796720/e2592a31-7c6d-4e52-b6d1-9efac55dc551)"></p>
 
 [Click to Downolad](https://github.com/felixlbr/felixlbr/files/10966179/LIBURSKI_Felix-CV.pdf)
