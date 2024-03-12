@@ -9,4 +9,4 @@
 ## My resume
 <p style="text-align:center;"><img width="35%" src="https://github.com/felixlbr/felixlbr/assets/94796720/dc1ecb1d-ea01-4729-9d2b-b2cf850514d3"></p>
 
-[Click to Downolad](https://github.com/felixlbr/felixlbr/files/12919071/LIBURSKI_Felix-CV.pdf)
+[Click to Downolad](https://github.com/felixlbr/felixlbr/files/14577146/LIBURSKI_Felix-EN-CV.pdf)
